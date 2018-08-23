@@ -5,7 +5,7 @@
 源码地址：https://github.com/IssueReader/issue-reader-dva
 
 ## 项目背景
-目前很多高质量的博客使用 Github 仓库的 issue 作为管理工具，对于作者而言减少很多运维的成本，对于读者来说，却没有比较好的阅读工具。一般的做法是通过 watch，但是 watch 的仓库很多时，和其他代码仓库的 issue 混杂一起，会收到很多冗余信息(例如，issue 新增评论，或者新人用户新建无意义的 issue)，还经常有一些没有经验的菜鸟跑到博主的仓库中乱开 issue 导致一些骂战。Github Issue Blog Reader 应运而生。
+目前很多高质量的博客使用 Github 仓库的 issue 作为管理工具，对于作者而言减少很多运维的成本，对于读者来说，却没有比较好的阅读工具。一般的做法是通过 watch，但是 watch 的仓库很多时，和其他代码仓库的 issue 混杂一起，会收到很多冗余信息(例如，issue 新增评论，或者新人用户新建无意义的 issue)，还经常有一些没有经验的菜鸟跑到博主的仓库中乱开 issue 导致一些骂战。Issue Reader 应运而生。
 
 
 ## 主要功能介绍
